@@ -1,0 +1,14 @@
+npm install @react-three/drei
+npm install @react-three/fiber
+npm install @react-three
+npm install --save styled-components
+
+
+1-)npm install -g gltf-pipeline  komut sistemine bunu kur
+
+2-)gltf-pipeline -i model.gltf -o modelDraco.gltf -d  gltf yi glb ye çevirme için komut sistemine copy
+
+3-)npx gltfjsx clothes.gltf --transform glb yi jsx e getirmek için bunu komut sistemine yaz
+
+
+4-)https://gitforwindows.org/
